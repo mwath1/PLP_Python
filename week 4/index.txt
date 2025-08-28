@@ -1,0 +1,5 @@
+this is week 3 assignment. I am expected to Create a program that reads a file and writes a modified version to a new file. For the seccond part, ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
+ 
+Sorry for that this is week 4 assignment not 3.
+Nothing changes for the task assignment. you first  Create a program that reads a file and writes a modified version to a new file. 
+For the second part, ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
